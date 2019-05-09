@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.1.2-a9350f50",
+    "versionCode": "210",
+    "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/canary_builds/app-debug.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
+  },
+  "magisk": {
+    "version": "Taimen_Diag_19.2-4040a024",
+    "versionCode": "19101",
+    "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/canary_builds/magisk-debug.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
+    "md5": "268a4a73b6bc496a618d0a4e96a00a98"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/canary_builds/magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "12",
+    "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/snet.apk"
+  }
+}
