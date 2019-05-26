@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "7.1.2-a9350f50",
-    "versionCode": "210",
+    "version": "7.2.0-8c40db57",
+    "versionCode": "214",
     "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/canary_builds/app-debug.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
   },
   "magisk": {
     "version": "Taimen_Diag_19.2-4040a024",
-    "versionCode": "19101",
+    "versionCode": "19201",
     "link": "https://raw.githubusercontent.com/AGagarin/magisk_files/master/canary_builds/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
     "md5": "268a4a73b6bc496a618d0a4e96a00a98"
